@@ -23,4 +23,4 @@ print(find)
 print(python.index("Java")) # Java가 없기 때문에 에러가 발생하며 프로그램 종료
 print(python.find("Java")) # Java가 없으면 -1을 반환(출력)하며 프로그램 계속 수행
 
-print(python.count("n")) # 2: 문자여 내에서 n이 나온 횟수
+print(python.count("n")) # 2: 문자열 내에서 n이 나온 횟수
