@@ -1,6 +1,5 @@
 from tkinter import Menu
 
-
 menu = ("돈까스", "치즈까스")
 print(menu[0]) # 돈까스
 print(menu[1]) # 치즈까스
